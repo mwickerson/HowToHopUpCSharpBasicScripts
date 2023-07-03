@@ -1,3 +1,8 @@
+
+***DOWNLOAD EVERYTHING FOR PRIVATE AND EDUCATIONAL USE ONLY***
+
+***CONTACT MICHAEL WICKERSON at mwickerson999@.gmail.com FOR COMMERCIAL USE***
+
 # HowToHopUpCSharpBasicScripts
 Examples of how to HOP UP C# scripts for Hopping to from github repos
 
